@@ -20,4 +20,14 @@ Excel e Power BI
 
 ## Formato Final ##
 
+<img width="294" alt="Dashboard - Página 1" src="https://github.com/user-attachments/assets/26d5abad-171b-4687-bfbb-e4bc37bb2078" />
+
+<img width="295" alt="Dashboard - Página 2" src="https://github.com/user-attachments/assets/a35674c6-bfc7-46db-9d0b-cff35d5cb218" />
+
+
+## Funcionamento do Dashboard ##
+Os filtros utilizados são aplicados a todas as páginas do dashboard.
+
+![Gif - Dashboard - Painel Gerencial](https://github.com/user-attachments/assets/548e263c-b2c7-4883-a546-88d6555cb643)
+
 
